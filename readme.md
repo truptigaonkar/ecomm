@@ -11,8 +11,8 @@ Features:
 6.	Security, User/Admin Authentication: 
 	- Only admin users can perform CRUD operation with Categories and Products
 	- Normal user can add/update/delete cart to basket
-7.	Pagination feature is available on home page
-8.	MYSQL dump of the database named laravelecomm.sql’ is provided.
+7.	Pagination feature is available
+8.	MYSQL dump of the database named ecomm.sql’ is provided.
 9.	Images will be stored in folder ‘public/images’ using laravel package ‘File Storage’
 
 ### Prerequisites
